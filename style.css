@@ -1,0 +1,10 @@
+body{
+    background-color: teal;
+    margin: 0;
+    border: 2px solid red;
+    overflow: hidden;
+}
+
+#can{
+    background-color: rgb(25, 63, 87);
+}
